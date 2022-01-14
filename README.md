@@ -19,6 +19,9 @@ The more #'s you use the smaller it gets
 - item 6
 
 
-[ratio] (https://www.google.com)
+[google] (https://www.google.com)
+https://www.google.com
+
+this is in line link <https://www.google.com>
 
 
