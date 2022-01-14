@@ -3,9 +3,8 @@
 ### header 3
 #### header 4
 
-The more # you use the smaller it gets 
-
-## Header 2 style 
+## Header 2 Style 
+The more #'s you use the smaller it gets 
 
 
 ## Ordered list
@@ -18,3 +17,8 @@ The more # you use the smaller it gets
 - item 4 
 - item 5
 - item 6
+
+
+[ratio] (https://www.google.com)
+
+
