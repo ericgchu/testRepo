@@ -19,10 +19,12 @@ The more #'s you use the smaller it gets
 - item 6
 
 
-[google] (https://www.google.com)
+[google] (https://www.google.com)       (This should have the word 'google' to be clickable) 
 
 https://www.google.com
 
 this is in line link <https://www.google.com>
+
+
 
 
