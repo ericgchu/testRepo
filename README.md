@@ -42,7 +42,9 @@ func():
 ## How to alter text
 
 **bold**
+
 *italics* 
+
 ***bold + italics***
 
 
