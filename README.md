@@ -26,8 +26,17 @@ https://www.google.com
 this is in line link <https://www.google.com>
 
 
-## Code example
-''' ./run.sh
+## How to embed code text
+
+''' java
+public void func() {
+    System.out.println("Hello there!");
+}
+'''
+
+'''python
+func():
+    print("Hello there!")
 '''
 
 
