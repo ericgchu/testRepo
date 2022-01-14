@@ -28,16 +28,16 @@ this is in line link <https://www.google.com>
 
 ## How to embed code text
 
-''' java
+``` java
 public void func() {
     System.out.println("Hello there!");
 }
-'''
+```
 
-'''python
+``` python
 func():
     print("Hello there!")
-'''
+```
 
 
 ## How to imbed an image (Use image address) 
